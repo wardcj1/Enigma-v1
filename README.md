@@ -1,7 +1,7 @@
 # Enigma-v1
 
 ## Live Link
- - https://wardcj1.github.io/Enigma-v1
+ - https://github.com/wardcj1/Enigma-v1.git
 
 ## Overview
 
